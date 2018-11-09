@@ -10,9 +10,9 @@ Compatibilities
 Installation
 ------------
 
-automata-terrain-gen is published on **PyPi**, so you only need to run the following command:
+automatagen is published on **PyPi**, so you only need to run the following command:
 
-    $ pip install automata-terrain-gen
+    $ pip install automatagen
     
 Usage
 ------------
@@ -22,7 +22,7 @@ Note: TerrainGenerator.generate(width, height) returns a 2d array of boolean val
 Instantiating a new TerrainGenerator:
 
 ```python
-from automata-terrain-gen import TerrainGenerator
+from automatagen import TerrainGenerator
     
 terrgen = TerrainGenerator()
 ```
