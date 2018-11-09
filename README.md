@@ -1,4 +1,4 @@
-# automata-terrain-gen
+# automatagen
 Generate random terrain using cellular automata.
 
 Compatibilities
